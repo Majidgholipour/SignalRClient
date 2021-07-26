@@ -1,0 +1,12 @@
+{
+  "Server": {
+    "ConncetionURL": "http://127.0.0.1:8088/",
+    "HubName": "MyHub",
+    "ResourceSleepTime": "10000",
+    "EventSleepTime": "20000",
+    "ApplicarionSleepTime": "3000",
+    "ServiceAvalibilitySleepTime": "60000",
+    "ReconnectSleepTime": "3000",
+    "LogPath": "c:\\Logs\\client"
+  }
+}
